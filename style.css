@@ -1,0 +1,30 @@
+body {
+  height: 100vh;
+  background: radial-gradient(white, rgb(186, 186, 186));
+}
+body .stylehomepage {
+  background-color: #000000;
+  height: 100vh;
+}
+body .stylehomepage .headerstyle {
+  background-color: red;
+  height: 12%;
+}
+body .stylehomepage .headerstyle h1 {
+  line-height: 60%;
+  font-size: 40px;
+}
+body .stylehomepage .mainstyle {
+  height: 50vh;
+  background-color: #656464;
+  font-size: 20px;
+}
+body .stylehomepage .mainstyle .prestations01 {
+  margin-left: 5%;
+}
+body .stylehomepage .mainstyle .prestations02 {
+  margin-left: 5%;
+}
+body .stylehomepage .buttonstyle {
+  background-color: yellow;
+}/*# sourceMappingURL=style.css.map */
